@@ -23,3 +23,4 @@ Then execute the command to start the server
 ```
  java -jar build/libs/shortly.jar 
 ```
+##Author: Chandan Kumar Singh
